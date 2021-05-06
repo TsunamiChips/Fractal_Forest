@@ -6,7 +6,7 @@ A randomly generated fractal forest made using p5.js
 
 [tsunamichips.github.io/Fractal_Forest/](https://tsunamichips.github.io/Fractal_Forest/)
 
-![Desktop Screenshot](/assets/S1.png)
+![Desktop Screenshot](/assets/s1.png)
 
 ### Built With
 
