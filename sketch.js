@@ -109,7 +109,7 @@ function draw() {
     noStroke();
     textSize(25);
     fill(255)
-    text('F r a c t a l    F o r e s t', 130, 270);
+    text('Forest Fractal', 130, 270);
 
     noStroke();
     textSize(15);
