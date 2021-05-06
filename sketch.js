@@ -113,7 +113,7 @@ function draw() {
 
     noStroke();
     textSize(15);
-    text('~ V i v e k   S i n g h   N e g i', 130, 310);
+    text('~ TsunamiChips', 130, 310);
 
 }
 
